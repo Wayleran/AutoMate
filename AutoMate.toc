@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AutoMate
+## Author: Wayleran
+## Version: 1.12.1 (1/29/2017)
+## Notes: Automates or improves many basic functions in WoW. (/auto -or- /automate)
+## DefaultState: Enabled
+## SavedVariablesPerCharacter: AutoMate
+AutoMate.xml
